@@ -384,7 +384,7 @@ const nonVegStarters = [
   { title: "Chicken Majestic", price: "Rs 260", image: "https://spiceeats.com/wp-content/uploads/2020/07/Chicken-Majestic.jpg" },
   { title: "Egg 65", price: "Rs 110", image: "https://vismaifood.com/storage/app/uploads/public/9f2/983/cf6/thumb__700_0_0_0_auto.jpg" },
   { title: "Keema Samosa", price: "Rs 220", image: "https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Best-Mutton-Keema-Samosa-2.jpg" },
-  { title: "Mutton Galouti Kebab", price: "Rs 380", image: "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/ruby_pathak-yahoo.com/Mutton_Galouti_Kabab.jpg" },
+  { title: "Mutton Galouti Kebab", price: "Rs 380", image: "https://res.cloudinary.com/dglvqybdo/image/upload/v1751398738/Mutton_guloti_kabab_xrwfsg.webp" },
   { title: "Butter Chicken Pani Puri", price: "Rs 240", image: "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Butter_Chicken_Pani_Puri__Recipe.jpg" },
   { title: "Tandoori Chicken Wings", price: "Rs 150", image: "https://www.whiskaffair.com/wp-content/uploads/2023/05/Tandoori-Chicken-Wings-2-1.jpg" },
   { title: "Fish Fingers", price: "Rs 220", image: "https://www.recipetineats.com/tachyon/2020/01/Fish-Fingers_9.jpg" },
